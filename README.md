@@ -1,4 +1,4 @@
-# Panda
+# Java With MySql
 
 Final Year Java With Mysql Project Download And extract the .rar file
 Contact me for enquiry
